@@ -1,1 +1,19 @@
 # chosunKg
+조선굵은고딕체
+
+<pre>
+@font-face {
+    font-family: "chosunKg";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/chosunKg/chosunKg.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/chosunKg/chosunKg.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/chosunKg/chosunKg.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/chosunKg/chosunKg.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/chosunKg/chosunKg.ttf") format("truetype");
+    font-display: swap;
+} 
+.chosunKg {
+    font-family: "chosunKg";
+}
+</pre>
